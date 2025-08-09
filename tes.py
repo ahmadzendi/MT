@@ -137,4 +137,4 @@ def main_menu():
             print("Pilihan tidak valid. Silakan pilih 1, 2, atau 3.")
 
 if __name__ == "__main__":
-    main_menu()
+run_maintenance()
