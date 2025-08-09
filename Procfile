@@ -1,1 +1,1 @@
-worker: python tes.py
+start: python tes.py
